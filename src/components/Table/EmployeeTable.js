@@ -31,7 +31,7 @@ export const EmployeeTable = () => {
     <div className='container'>
               <div className='table'>
 
-                <Table>
+                <Table responsive>
                 <thead>
         <tr>
           <th>Id</th>
